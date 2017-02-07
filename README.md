@@ -14,3 +14,5 @@ https://github.com/dannybaillie/NeSI
 
 ###Install R packages on NeSI
 
+https://github.com/TomKellyGenetics/install.nesi
+
